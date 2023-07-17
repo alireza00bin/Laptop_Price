@@ -1,6 +1,6 @@
 # Laptop price Prediction On Dataset Prepared By Web Crawling on [TOROB](https://torob.com/) Online Shop
 
-The main aim of this project was web crawling and extracting data from one of the most famous Iranian online shops. 
+The main aim of this project was web crawling and extracting data from one of the most famous Iranian online shops. After that, different machine learning models were applied for price prediction on prepared datasets.
 
 # DATASET
 
